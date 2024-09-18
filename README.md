@@ -20,6 +20,7 @@ $pip3 install openpyxl
     ```python
     $ python3 create_text_book_tag.py
     ```
+3. `save.xlsx`に棚札が出力される
 
 ## 処理手順
 1. 棚札を作成のための教科書一覧を取得
